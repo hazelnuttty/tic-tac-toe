@@ -12,7 +12,7 @@ Tic-Tac-Toe AI is a web-based Tic-Tac-Toe game featuring a smart bot that uses t
 ## How to Play
 
 1. **Clone the Repository**
-   `git clone https://github.com/username/tic-tac-toe-ai.git`
+   `git clone https://github.com/username/tic-tac-toe.git`
 
 2. **Open the `index.html` file in a browser**
    - You can open it directly by **double-clicking** or using **Live Server** in VS Code.
